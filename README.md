@@ -9,6 +9,8 @@ I build a chatbot using Basic NLP Technique.
 5. Delete File: Deletes a specified file from the directory.
 The main() function prompts the user for a directory path and then enters a loop to receive user commands. It processes each command and provides appropriate responses until the user exits.
 
+![11-Oct-2022-1200x600_SoHY84J](https://github.com/user-attachments/assets/b85ec8d8-88bf-4734-a4d7-09c3fc296f9c)
+
 ## Working steps
 Directory Interaction: The code interacts with a specified directory where files are located. It prompts the user to input the directory path and verifies its existence.
 
